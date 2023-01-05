@@ -222,6 +222,7 @@ under the License.
       <id>run-its</id>
       <build>
         <pluginManagement>
+
           <plugins>
             <plugin>
               <groupId>org.apache.maven.plugins</groupId>
