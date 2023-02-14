@@ -22,6 +22,8 @@ jobs:
                   -DoutputFile=.debricked-maven-dependencies.tgf \
                   -DoutputType=tgf
 
+            - run: cat .debricked-maven-dependencies.tgf
+
             - uses: debricked/actions/scan@v1
               env:
                   DEBRICKED_TOKEN: ${{ secrets.DEBRICKED_TOKEN }}
