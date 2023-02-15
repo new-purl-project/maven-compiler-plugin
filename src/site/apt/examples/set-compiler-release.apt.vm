@@ -51,6 +51,7 @@ Setting the <<<--release>>> of the Java Compiler
   </properties>
   [...]
 </project>
+
 +-----
 
   or by configuring the plugin directly:
@@ -74,6 +75,7 @@ Setting the <<<--release>>> of the Java Compiler
   </build>
   [...]
 </project>
+
 +-----
 
   <<Note:>> The value in the <<<release>>> parameter follows the new version naming scheme adopted

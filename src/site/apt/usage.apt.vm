@@ -73,6 +73,7 @@ mvn test-compile
   </build>
   ...
 </project>
+
 +-----
 
   <<Note>>: Maven 3.0 will issue warnings if you do not specify the version of a

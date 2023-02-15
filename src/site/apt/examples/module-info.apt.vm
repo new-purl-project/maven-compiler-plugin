@@ -102,6 +102,7 @@ Older projects with module-info
   </build>
   [...]
 </project>
+
 +-------
 
 * Java 5 or below Compatibility
@@ -162,4 +163,5 @@ Older projects with module-info
   </build>
   [...]
 </project>
+
 +-------

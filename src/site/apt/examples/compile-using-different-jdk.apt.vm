@@ -75,6 +75,7 @@ Compiling Sources Using A Different JDK
   </build>
   [...]
 </project>
+
 +-------
 
   To avoid hard-coding a filesystem path for the executable, you can use a

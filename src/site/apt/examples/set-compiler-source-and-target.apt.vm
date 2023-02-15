@@ -46,6 +46,7 @@ Setting the <<<-source>>> and <<<-target>>> of the Java Compiler
   </properties>
   [...]
 </project>
+
 +-----
 
   or configure the plugin directly:
@@ -70,6 +71,7 @@ Setting the <<<-source>>> and <<<-target>>> of the Java Compiler
   </build>
   [...]
 </project>
+
 +-----
 
   <<Note:>> Merely setting the <<<target>>> option does not guarantee that your code actually runs on a JRE with the
